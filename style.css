@@ -89,7 +89,7 @@ p{
   color: red;
 }
 
-.cancel-order_faded {
+.cancel-order_faded{
   color: hsl(224, 23%, 55%);
   padding: 20px;
 }
