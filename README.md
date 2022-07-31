@@ -26,7 +26,7 @@ The challenge is designed for both mobile and desktop screen users.
 
 ### Links
 - Solution URL: [Github](https://github.com/MUBARAHKAH/order-summary-card.git)
-- Live Site URL: [Livesite](https://your-live-site-url.com)
+- Live Site URL: [Livesite](https://mubarahkah.github.io/order-summary-card/)
 
 ## Author
 
